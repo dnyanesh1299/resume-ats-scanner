@@ -15,7 +15,7 @@ AI-powered Resume ATS Scanner that analyzes resumes against job descriptions usi
 
 ---
 
-## 🚀 Built with ❤️ by Dnyanesh Patil
+## 🚀 Built by Dnyanesh Patil
 
 ### (AI/ML Engineer | Data Science Enthusiast)
 

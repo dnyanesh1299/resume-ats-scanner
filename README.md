@@ -221,7 +221,7 @@ cd resume_ats_scanner/frontend
 npm install
 4. Environment (Optional)
 cp .env.example .env
-# Add MONGODB_URI for database (optional)
+
 
 # Running the Application
 Terminal 1 - Backend

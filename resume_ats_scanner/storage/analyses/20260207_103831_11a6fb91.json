@@ -1,0 +1,403 @@
+{
+  "analysis_id": "20260207_103831_11a6fb91",
+  "resume_data": {
+    "name": "Seaborn",
+    "email": "dnyaneshpatil706@gmail.com",
+    "phone": "+91 9511743263",
+    "linkedin": "",
+    "github": "",
+    "skills": [
+      "Libraries",
+      "Seaborn",
+      "Git",
+      "SQL",
+      "Excel",
+      "Data Science: Machine Learning",
+      "Statistics",
+      "Frameworks: Pandas",
+      "Matplotlib",
+      "Visualization Tools: Tableau",
+      "NLP",
+      "Data Cleaning",
+      "REST APIs",
+      "Power BI",
+      "Databases: MySQL",
+      "Cybersecurity Fundamentals",
+      "Feature Engineering",
+      "NumPy",
+      "Programming: Python",
+      "Scikit-learn",
+      "Cloud & Others: AWS Basics",
+      "JavaScript",
+      "MongoDB Tools: Jupyter Notebook"
+    ],
+    "experience": [
+      {
+        "title": "Software Development Intern \u2013 Sumago Infotech 3 Months",
+        "company": "\u2022 Developed and optimized REST APIs while ensuring secure data handling using JWT authentication.",
+        "start_date": "",
+        "end_date": "",
+        "duration": " - ",
+        "responsibilities": [
+          "Developed and optimized REST APIs while ensuring secure data handling using JWT authentication.",
+          "Collaborated on full-stack projects, worked with databases, and improved backend performance."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering \u2013",
+        "institution": "",
+        "year": "2026",
+        "details": "Bachelor of Engineering \u2013 Information Technology Expected 2026"
+      },
+      {
+        "degree": "bal Knowledge City",
+        "institution": "",
+        "year": "",
+        "details": "MET Bhujbal Knowledge City, Nashik"
+      },
+      {
+        "degree": "CGPA: 8.1 / 10",
+        "institution": "CGPA: 8.1 / 10",
+        "year": "",
+        "details": "CGPA: 8.1 / 10"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Credit Card Fraud Detection \u2013 Machine Learning",
+        "description": "Credit Card Fraud Detection \u2013 Machine Learning"
+      },
+      {
+        "name": " Built classification models to detect fraudulent transactions using preprocessing, scaling, and imbalance handling.",
+        "description": "\u2022 Built classification models to detect fraudulent transactions using preprocessing, scaling, and imbalance handling."
+      },
+      {
+        "name": " Evaluated performance using Accuracy, Precision, Recall, and ROC-AUC metrics.",
+        "description": "\u2022 Evaluated performance using Accuracy, Precision, Recall, and ROC-AUC metrics."
+      },
+      {
+        "name": "AI-Powered Resume Screener \u2013 NLP",
+        "description": "AI-Powered Resume Screener \u2013 NLP"
+      },
+      {
+        "name": " Designed an ATS-friendly resume analyzer using TF-IDF and keyword ranking techniques.",
+        "description": "\u2022 Designed an ATS-friendly resume analyzer using TF-IDF and keyword ranking techniques."
+      },
+      {
+        "name": " Implemented NLP preprocessing and scoring system using Python and Scikit-learn.",
+        "description": "\u2022 Implemented NLP preprocessing and scoring system using Python and Scikit-learn."
+      },
+      {
+        "name": "E-Commerce Analytics Dashboard",
+        "description": "E-Commerce Analytics Dashboard"
+      },
+      {
+        "name": " Developed interactive dashboards to analyze sales trends, revenue, and customer behavior.",
+        "description": "\u2022 Developed interactive dashboards to analyze sales trends, revenue, and customer behavior."
+      },
+      {
+        "name": " Utilized Tableau and SQL for visualization and business insight generation.",
+        "description": "\u2022 Utilized Tableau and SQL for visualization and business insight generation."
+      }
+    ],
+    "certifications": [
+      "Google Data Analytics Professional Certificate \u2013 Google"
+    ],
+    "achievements": [],
+    "raw_text": "Dnyanesh Sameer Patil\ndnyaneshpatil706@gmail.com \u2014 +91 9511743263 \u2014 LinkedIn \u2014 GitHub\nSummary\nAspiring Data Scientist with strong foundation in Machine Learning, Data Analytics, and Python programming.\nCertified in Google Data Analytics and Machine Learning with practical experience in predictive modeling, data\nvisualization, and building data-driven applications. Skilled in SQL, NLP, and statistical analysis with an interest in\nsolving real-world business problems using data.\nEducation\nBachelor of Engineering \u2013 Information Technology Expected 2026\nMET Bhujbal Knowledge City, Nashik\nCGPA: 8.1 / 10\nTechnical Skills\n\u2022 Programming: Python, SQL, JavaScript\n\u2022 Data Science: Machine Learning, NLP, Statistics, Feature Engineering, Data Cleaning\n\u2022 Libraries/Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn\n\u2022 Visualization Tools: Tableau, Power BI, Excel\n\u2022 Databases: MySQL, MongoDB Tools: Jupyter Notebook, Git\n\u2022 Cloud & Others: AWS Basics, REST APIs, Cybersecurity Fundamentals\nExperience\nSoftware Development Intern \u2013 Sumago Infotech 3 Months\n\u2022 Developed and optimized REST APIs while ensuring secure data handling using JWT authentication.\n\u2022 Collaborated on full-stack projects, worked with databases, and improved backend performance.\nProjects\nCredit Card Fraud Detection \u2013 Machine Learning\n\u2022 Built classification models to detect fraudulent transactions using preprocessing, scaling, and imbalance handling.\n\u2022 Evaluated performance using Accuracy, Precision, Recall, and ROC-AUC metrics.\nAI-Powered Resume Screener \u2013 NLP\n\u2022 Designed an ATS-friendly resume analyzer using TF-IDF and keyword ranking techniques.\n\u2022 Implemented NLP preprocessing and scoring system using Python and Scikit-learn.\nE-Commerce Analytics Dashboard\n\u2022 Developed interactive dashboards to analyze sales trends, revenue, and customer behavior.\n\u2022 Utilized Tableau and SQL for visualization and business insight generation.\nCertifications\nGoogle Data Analytics Professional Certificate \u2013 Google\nMachine Learning Certification\nAWS Cloud Fundamentals\nCybersecurity Certification \u2013 Udemy",
+    "sections": [
+      "summary",
+      "education",
+      "skills",
+      "experience",
+      "projects",
+      "certifications",
+      "certification"
+    ]
+  },
+  "jd_data": {
+    "job_title": "sample data scientist job description",
+    "raw_text": "sample data scientist job description\r\nAt [Company X], we rely on insightful data to power our systems and solutions. We\u2019re seeking an experienced data scientist to deliver insights on a daily basis. The ideal candidate will have mathematical and statistical expertise, along with natural curiosity and a creative mind. While mining, interpreting, and cleaning our data, this person will be relied on to ask questions, connect the dots, and uncover hidden opportunities for realizing the data\u2019s full potential. As part of a team of specialists, the data scientist will \u201cslice and dice\u201d data using various methods and create new visions for the future.\r\n\r\nObjectives of this role\r\nCollaborate with product design and engineering teams to develop an understanding of needs\r\nResearch and devise innovative statistical models for data analysis\r\nCommunicate findings to all stakeholders\r\nEnable smarter business processes by using analytics for meaningful insights\r\nKeep current with technical and industry developments\r\nResponsibilities\r\nServe as lead data strategist to identify and integrate new datasets that can be leveraged through our product capabilities, and work closely with the engineering team in the development of data products\r\nExecute analytical experiments to help solve problems across various domains and industries\r\nIdentify relevant data sources and sets to mine for client business needs, and collect large structured and unstructured datasets and variables\r\nDevise and utilize algorithms and models to mine big-data stores; perform data and error analysis to improve models; clean and validate data for uniformity and accuracy\r\nAnalyze data for trends and patterns, and interpret data with clear objectives in mind\r\nImplement analytical models in production by collaborating with software developers and machine-learning engineers\r\nRequired skills and qualifications\r\nSeven or more years of experience in data science\r\nProficiency with data mining, mathematics, and statistical analysis\r\nAdvanced experience in pattern recognition and predictive modeling\r\nExperience with Excel, PowerPoint, Tableau, SQL, and programming languages (ex: Java/Python, SAS)\r\nAbility to work effectively in a dynamic, research-oriented group that has several concurrent projects\r\nPreferred skills and qualifications\r\nBachelor\u2019s degree (or equivalent) in statistics, applied mathematics, or related discipline\r\nTwo or more years of project management experience\r\nProfessional certification",
+    "required_skills": [
+      "ERP",
+      "RAG",
+      "Java",
+      "Retrieval-Augmented Generation",
+      "iOS",
+      "SQL",
+      "Business Intelligence",
+      "R",
+      "Tableau",
+      "Excel",
+      "Artificial Intelligence",
+      "Data Science",
+      "Statistical Analysis",
+      "AI",
+      "Algorithms",
+      "Statistics",
+      "C",
+      "TypeScript",
+      "Teams",
+      "Analytics",
+      "Go",
+      "data science",
+      "Python",
+      "Project Management",
+      "Data Analysis",
+      "Continuous Integration",
+      "UI/UX Design",
+      "Research"
+    ],
+    "years_experience": null,
+    "degree_requirements": [
+      "Bachelor",
+      "ba",
+      "ms"
+    ],
+    "domain_keywords": [
+      "AI",
+      "Data"
+    ],
+    "tools_technologies": [
+      "ERP",
+      "RAG",
+      "Java",
+      "iOS",
+      "SQL",
+      "R",
+      "Tableau",
+      "Excel",
+      "Data Science",
+      "Statistical Analysis",
+      "AI",
+      "Algorithms",
+      "Statistics",
+      "C",
+      "Teams",
+      "Analytics",
+      "Go",
+      "Python",
+      "Project Management",
+      "Data Analysis",
+      "Research"
+    ]
+  },
+  "total_ats_score": 35.39,
+  "skill_match_score": 32.14,
+  "keyword_match_score": 17.65,
+  "experience_relevance_score": 0,
+  "education_match_score": 90,
+  "job_title_similarity_score": 0.0,
+  "ats_formatting_score": 100.0,
+  "score_breakdown": [
+    {
+      "component": "Skill Match Score",
+      "score": 32.14,
+      "weight": 40,
+      "explanation": "Matched 9 of 28 required skills from job description."
+    },
+    {
+      "component": "Keyword Match Score",
+      "score": 17.65,
+      "weight": 20,
+      "explanation": "TF-IDF similarity between resume keywords and job description requirements."
+    },
+    {
+      "component": "Experience Relevance Score",
+      "score": 0,
+      "weight": 20,
+      "explanation": "Semantic similarity between your experience and JD. 0% of experience is relevant."
+    },
+    {
+      "component": "Education Match Score",
+      "score": 90,
+      "weight": 10,
+      "explanation": "Match between your education and degree requirements in the job description."
+    },
+    {
+      "component": "ATS Formatting Score",
+      "score": 100.0,
+      "weight": 10,
+      "explanation": "Resume structure and formatting compatibility with ATS systems."
+    }
+  ],
+  "weights": {
+    "skill_match": 40,
+    "keyword_match": 20,
+    "experience_relevance": 20,
+    "education_match": 10,
+    "formatting_score": 10
+  },
+  "skill_analysis": {
+    "matched_skills": [
+      {
+        "skill": "SQL",
+        "confidence": 1.0
+      },
+      {
+        "skill": "Excel",
+        "confidence": 1.0
+      },
+      {
+        "skill": "Statistics",
+        "confidence": 1.0
+      },
+      {
+        "skill": "Tableau",
+        "confidence": 0.9
+      },
+      {
+        "skill": "Python",
+        "confidence": 0.9
+      },
+      {
+        "skill": "Data Science",
+        "confidence": 0.39
+      },
+      {
+        "skill": "Analytics",
+        "confidence": 0.28
+      },
+      {
+        "skill": "data science",
+        "confidence": 0.39
+      },
+      {
+        "skill": "Data Analysis",
+        "confidence": 0.33
+      }
+    ],
+    "missing_skills": [
+      "ERP",
+      "RAG",
+      "Java",
+      "Retrieval-Augmented Generation",
+      "Business Intelligence",
+      "iOS",
+      "R",
+      "Artificial Intelligence",
+      "Statistical Analysis",
+      "AI",
+      "Algorithms",
+      "TypeScript",
+      "C",
+      "Teams",
+      "Go",
+      "Project Management",
+      "Continuous Integration",
+      "UI/UX Design",
+      "Research"
+    ],
+    "suggested_skills_to_add": [
+      "ERP",
+      "RAG",
+      "Java",
+      "Retrieval-Augmented Generation",
+      "Business Intelligence",
+      "iOS",
+      "R",
+      "Artificial Intelligence",
+      "Statistical Analysis",
+      "AI",
+      "Algorithms",
+      "TypeScript",
+      "C",
+      "Teams",
+      "Go"
+    ],
+    "skill_match_score": 32.14,
+    "total_jd_skills": 28,
+    "total_matched": 9
+  },
+  "experience_analysis": {
+    "relevance_score": 0,
+    "relevant_experience_pct": 0,
+    "missing_domain_suggestions": [],
+    "details": []
+  },
+  "education_analysis": {
+    "education_match_score": 90,
+    "matched": true,
+    "details": [
+      {
+        "degree": "Bachelor of Engineering \u2013",
+        "institution": ""
+      },
+      {
+        "degree": "bal Knowledge City",
+        "institution": ""
+      },
+      {
+        "degree": "CGPA: 8.1 / 10",
+        "institution": "CGPA: 8.1 / 10"
+      }
+    ]
+  },
+  "formatting_issues": [],
+  "formatting_suggestions": [],
+  "ai_enhancement": {
+    "enhanced_bullets": [
+      {
+        "original": "Developed and optimized REST APIs while ensuring secure data handling using JWT authentication.",
+        "suggested": "Developed and optimized REST APIs while ensuring secure data handling using JWT authentication."
+      },
+      {
+        "original": "Collaborated on full-stack projects, worked with databases, and improved backend performance.",
+        "suggested": "Consider starting with: Developed - Collaborated on full-stack projects, worked with databases, and improved backend..."
+      }
+    ],
+    "action_verbs": [
+      "Achieved",
+      "Developed",
+      "Implemented",
+      "Led",
+      "Managed",
+      "Optimized",
+      "Designed",
+      "Built",
+      "Created",
+      "Improved",
+      "Reduced",
+      "Increased",
+      "Streamlined",
+      "Automated",
+      "Collaborated",
+      "Mentored",
+      "Delivered",
+      "Launched",
+      "Transformed",
+      "Spearheaded",
+      "Architected",
+      "Deployed"
+    ],
+    "project_suggestions": [
+      "Consider mentioning: ERP, RAG, Java in project 'Credit Card Fraud Detection \u2013 Machine Learning'",
+      "Consider mentioning: ERP, RAG, Java in project ' Built classification models to detect fraudulent transactions using preprocessing, scaling, and imbalance handling.'",
+      "Consider mentioning: ERP, RAG, Java in project ' Evaluated performance using Accuracy, Precision, Recall, and ROC-AUC metrics.'"
+    ],
+    "skill_recommendations": [
+      "Add skill: ERP",
+      "Add skill: RAG",
+      "Add skill: Java",
+      "Add skill: Retrieval-Augmented Generation",
+      "Add skill: Business Intelligence",
+      "Add skill: iOS",
+      "Add skill: R",
+      "Add skill: Artificial Intelligence",
+      "Add skill: Statistical Analysis",
+      "Add skill: AI"
+    ],
+    "ai_provider": "fallback"
+  },
+  "improvement_recommendations": [
+    "Add: ERP",
+    "Add: RAG",
+    "Add: Java",
+    "Add: Retrieval-Augmented Generation",
+    "Add: Business Intelligence"
+  ],
+  "created_at": "2026-02-07T10:38:34.392893",
+  "_id": "20260207_103831_11a6fb91"
+}

@@ -1,0 +1,48 @@
+Senior Software Engineer - Machine Learning
+
+Company: Tech Innovations Inc.
+Location: Remote / San Francisco, CA
+
+About the Role:
+We are seeking a Senior Software Engineer with strong Machine Learning and NLP expertise to join our AI team. You will be responsible for building and deploying production ML models.
+
+Responsibilities:
+- Design and implement ML pipelines for NLP tasks
+- Develop and deploy models using Python, PyTorch, and TensorFlow
+- Work with NLP libraries like spaCy, NLTK, and Hugging Face Transformers
+- Build REST APIs for model serving
+- Collaborate with data engineers on ETL pipelines
+- Implement CI/CD for ML model deployment
+- Conduct code reviews and mentor junior developers
+
+Required Skills:
+- Python (5+ years)
+- Machine Learning / Deep Learning
+- Natural Language Processing (NLP)
+- PyTorch or TensorFlow
+- REST APIs
+- SQL and NoSQL databases (PostgreSQL, MongoDB)
+- Docker and Kubernetes
+- Git / GitHub
+- AWS or GCP cloud experience
+
+Preferred Skills:
+- Experience with BERT, GPT, or other transformer models
+- MLOps and model deployment
+- Apache Spark for big data
+- FastAPI for API development
+- Jupyter Notebook for experimentation
+
+Education:
+- Bachelor's or Master's degree in Computer Science, Data Science, or related field
+
+Experience:
+- 5+ years of software development experience
+- 3+ years of ML/NLP experience
+
+Tools & Technologies:
+- Python, JavaScript, React
+- PyTorch, TensorFlow, Scikit-learn
+- AWS, Docker, Kubernetes
+- PostgreSQL, MongoDB, Redis
+- Git, Jenkins, GitHub Actions
